@@ -1,0 +1,9 @@
+-------------------------------------------------------------------------------
+Test set: com.qafox.testscript.LoginPageTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 1, Time elapsed: 0.61 sec <<< FAILURE!
+setUp(com.qafox.testscript.LoginPageTest)  Time elapsed: 0.409 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at com.qafox.base.TestBase.initialization(TestBase.java:41)
+	at com.qafox.testscript.LoginPageTest.setUp(LoginPageTest.java:22)
+

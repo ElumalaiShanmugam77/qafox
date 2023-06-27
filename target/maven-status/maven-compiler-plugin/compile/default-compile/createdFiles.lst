@@ -1,0 +1,4 @@
+com\qafox\base\TestBase.class
+com\qafox\pages\LoginPage.class
+com\qafox\pages\HomePage.class
+com\qafox\util\TestUtil.class
